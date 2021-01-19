@@ -899,8 +899,8 @@ img{
         margin-bottom: 20px;
     }
     .mobile__pic-mob-first{
-        -ms-grid-row: -1;
-            grid-row-start: -1;
+        grid-row: -1;
+        grid-row-start: -1;
     }
     .top{
         margin-bottom: 76px;
